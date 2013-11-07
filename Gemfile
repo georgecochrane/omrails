@@ -4,6 +4,7 @@ gem 'rails', '4.0.0'
 gem 'jquery-rails'
 gem 'devise'
 gem 'simple_form'
+gem 'protected_attributes'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
